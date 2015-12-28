@@ -1,0 +1,47 @@
+html,
+body,
+
+#map-canvas
+{
+    height: 550px;
+}
+
+.header{
+    width:32%;
+    margin-left:auto;
+}
+
+.header h1{
+    font-style: oblique;
+    font-style: italic;
+}
+
+.dropDown{
+
+}
+
+.switch{
+    text-align:center;
+}
+
+.ul{
+    overflow:auto;
+    height:510px;
+    list-style-type: none;
+    background-color:lightgoldenrodyellow;
+}
+
+.li{
+    text-align:left;
+    color:black;
+    width:100%;
+}
+
+.li :hover{
+    color:blueviolet;
+    text-decoration: none;
+}
+
+.a{
+    color:black;
+}
